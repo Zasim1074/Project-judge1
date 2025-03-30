@@ -47,4 +47,4 @@ The application will be deployed using:
 - CDN for static assets to improve loading performance
 - Scalable frontend services to handle varying user loads
 
-## Live Project Link:- https://project-judge.vercel.app/
+## Live Project Link:- https://project-judge1.vercel.app/
